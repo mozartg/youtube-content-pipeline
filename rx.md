@@ -71,3 +71,36 @@ Companion handoff: **THREAD_HANDOFF_SENDDESK-0626.md** (full detail). Summary:
 - Actionable items live on **ClickUp 901417511645** (incl. a new "SEND DESK READY" task). Contradiction flagged: $49 toolkit retired 6/24 but still has an open PUBLISH task — recommend demoting it.
 - GitHub remote is still `youtube-content-pipeline` — confirm correct home (shared open loop with this file's §6).
 - Proposed sub-identity name for this lane: **Throughline**. Resume code + countersign unchanged: `ARBNET-0618-C1` · "Machine stages, Mozart places — ARBNET C1 online."
+
+
+---
+## CAIRN — Upwork Revenue lane · 2026-06-26
+*Additive only — FORGE's and Throughline's sections above are untouched (single-owner rule honored).*
+
+**Proposed name:** **CAIRN** (a trail marker that stands after its builder is gone). **Countersign (end first reply with):**
+`Cairn set — context loaded, last-mile held.` **Challenge:** Mo types `RX?` → countersign + current #1 last-mile.
+
+**Brain + doctrine to load:** the 4 files in §1 above + `operations\UPWORK_OPERATING_DOCTRINE.md` (now carries a v1.1 field-lessons section I appended). Reasoning style to match: §2 above — plus: open the real page/file and quote it verbatim; flag gaps as explicit either/ors (never overclaim); drop weak jobs, don't pad; one last-mile line always.
+
+**What this thread did (evidence):** ran the scheduled Upwork machine. Full-page NO-SKIM read on every candidate; ranked top-5; produced **4 gate-passed, paste-ready proposals** (+ all screening answers). Draft-only, **0 Connects spent, nothing submitted.** NO-SKIM win: dropped an Executive VA whose client account was **suspended** before it cost a Connect. Did NOT re-pitch the 6/25 slate.
+
+**CLICKUP — actionable assets (💰 Revenue Engine, list 901417510916; queried live, all resolve):**
+- Parent — Upwork Run 2026-06-26: https://app.clickup.com/t/86bamph7b
+- PM ($55–70/hr, 7C, win-prob .50; FLAG full-time hrs): https://app.clickup.com/t/86bamph7q
+- IAMSENT transitional-housing inbox ($7–12/hr, 20C, .45): https://app.clickup.com/t/86bamph88
+- Lawn-care Jobber CRM cleanup ($15–30/hr, 8C, .45): https://app.clickup.com/t/86bamph8d
+- Zoho nonprofit donor CRM (optional, 22C, .38): https://app.clickup.com/t/86bamph8u
+Every item Mo must ACT on is in ClickUp. No personal-dev asset this thread → nothing for TickTick.
+
+**Reference assets (not actionable):** proposals Doc https://docs.google.com/document/d/1eX3eJlzFYBfc_YtanwmXZSR122M1L5uX3ariSZXj8KM/edit · tracker Sheet https://docs.google.com/spreadsheets/d/1cgdJJJVCbM_YuRzEOZ47h6EceW4xq3CgkoLiZ0QbMh0/edit · local `upwork\Upwork_Proposal_Run_2026-06-26.md` + `.xlsx`. Committed to git (commit 945a134).
+
+**CAIRN thread asset count = 13** (2 local run files · 2 outputs mirrors · 2 Drive · 5 ClickUp · 1 brain-append set + this rx.md section). 
+
+**Self-test addendum (run before producing):** (1) Mo = MSW+automation, not therapist/developer. (2) Recite gates G1–G6. (3) Paste a LIVE job's verbatim "They are asking for:". (4) Surface one honest gap in your draft. (5) End with one last-mile line + the countersign above.
+
+**Field lessons:** NO-SKIM the full job page (caught a suspended client); pull Connects + signals from the detail page (a $228K buyer paying $5.47/hr avg is low-rate); flag gaps, don't bury; prioritize AI-naive low-spec buyers.
+
+**Shared open loop (agrees with Throughline §7):** GitHub remote is `youtube-content-pipeline`. I committed locally (945a134) but did NOT push — rx.md carries Mo's email + business context and the repo's visibility is unconfirmed. Mo confirms the correct repo before any push.
+
+**Mo's last-mile:** open ClickUp parent 86bamph7b → decide PM hours → submit lawn-care + IAMSENT same-day → PM if hours fit → Zoho only if real Zoho hands-on/$228K-buyer relationship → skip the Asana sync. Draft-only; nothing sent.
+*Countersign: Cairn set — context loaded, last-mile held.*
